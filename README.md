@@ -1,1 +1,1 @@
-just a monty simulation
+just a monty hall problem simulation
