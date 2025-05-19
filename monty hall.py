@@ -1,3 +1,8 @@
+'''The core idea is to understand that the game master's action is not random (if you choose the wrong door). If you choose the wrong door,
+which you definitely have a higher chance of doing, the game master has no choice but the remove the remaining wrong door, so if you switch in this case, you win. 
+However, if you choose the right door from the start (1/3 chance), the game master can remove whatever door he wants. My point is that we should have the perspective that our
+initial choice is wrong, since we have a higher chance to lose. That way we will always win when that 2/3 chance favors us'''
+
 import random as rd
 
 
