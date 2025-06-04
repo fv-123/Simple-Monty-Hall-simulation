@@ -2,7 +2,9 @@
 which you definitely have a higher chance of doing, the game master has no choice but the remove the remaining wrong door, 
 so if you switch in this case, you win. However, if you choose the right door from the start (1/3 chance), the game master 
 can remove whatever door he wants. My point is that we should have the perspective that our initial choice is wrong,
-since we have a higher chance to lose. That way we will always win when that 2/3 chance favors us'''
+since we have a higher chance to lose. That way we will always win when that 2/3 chance favors us.
+Ultimately, you WIN when you LOSE (2/3) and you LOSE when you WIN (1/3).
+Oh, and you can just count all possibilities but that goes to shit when you have 100 doors.'''
 
 import random as rd
 
